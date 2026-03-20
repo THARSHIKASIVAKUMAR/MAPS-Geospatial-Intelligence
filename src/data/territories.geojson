@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Chennai",
+        "color": "#00e5ff",
+        "manager": "Ramesh Kumar",
+        "target": 5000000
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.15,
+              13.15
+            ],
+            [
+              80.3,
+              13.15
+            ],
+            [
+              80.3,
+              13.05
+            ],
+            [
+              80.15,
+              13.05
+            ],
+            [
+              80.15,
+              13.15
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Central",
+        "color": "#00ff9d",
+        "manager": "Suresh Raina",
+        "target": 8000000
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.2,
+              13.05
+            ],
+            [
+              80.25,
+              13.05
+            ],
+            [
+              80.25,
+              12.95
+            ],
+            [
+              80.2,
+              12.95
+            ],
+            [
+              80.2,
+              13.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Chennai",
+        "color": "#ffb800",
+        "manager": "Anita Deshmukh",
+        "target": 6500000
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.15,
+              12.95
+            ],
+            [
+              80.3,
+              12.95
+            ],
+            [
+              80.3,
+              12.85
+            ],
+            [
+              80.15,
+              12.85
+            ],
+            [
+              80.15,
+              12.95
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Chennai",
+        "color": "#bf7aff",
+        "manager": "Priyanka Chopra",
+        "target": 4500000
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.15,
+              13.05
+            ],
+            [
+              80.2,
+              13.05
+            ],
+            [
+              80.2,
+              12.95
+            ],
+            [
+              80.15,
+              12.95
+            ],
+            [
+              80.15,
+              13.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Chennai",
+        "color": "#ff4d4d",
+        "manager": "Vikram Seth",
+        "target": 5500000
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.25,
+              13.05
+            ],
+            [
+              80.3,
+              13.05
+            ],
+            [
+              80.3,
+              12.95
+            ],
+            [
+              80.25,
+              12.95
+            ],
+            [
+              80.25,
+              13.05
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

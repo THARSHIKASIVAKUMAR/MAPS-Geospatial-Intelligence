@@ -1,0 +1,6005 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1000,
+        "name": "Sales Point 1000",
+        "region": "South Chennai",
+        "status": "inactive",
+        "performance_score": 23,
+        "sales": 2236273,
+        "targets_met": 67,
+        "phone": "+91 977133117"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.178512867191,
+          12.879113262143832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1001,
+        "name": "Sales Point 1001",
+        "region": "East Chennai",
+        "status": "pending",
+        "performance_score": 92,
+        "sales": 3074136,
+        "targets_met": 63,
+        "phone": "+91 920562440"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.27780428357448,
+          13.034222326181375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1002,
+        "name": "Sales Point 1002",
+        "region": "Central",
+        "status": "inactive",
+        "performance_score": 33,
+        "sales": 4962396,
+        "targets_met": 79,
+        "phone": "+91 914991755"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.21559763880438,
+          13.041732681273063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1003,
+        "name": "Sales Point 1003",
+        "region": "South Chennai",
+        "status": "pending",
+        "performance_score": 25,
+        "sales": 3732233,
+        "targets_met": 95,
+        "phone": "+91 948695198"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.26316323026909,
+          12.93481039802059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1004,
+        "name": "Sales Point 1004",
+        "region": "South Chennai",
+        "status": "pending",
+        "performance_score": 37,
+        "sales": 4695941,
+        "targets_met": 51,
+        "phone": "+91 948444054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.29325514643698,
+          12.91380249750879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1005,
+        "name": "Sales Point 1005",
+        "region": "East Chennai",
+        "status": "pending",
+        "performance_score": 77,
+        "sales": 916663,
+        "targets_met": 40,
+        "phone": "+91 942002726"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.28511776134411,
+          13.038103654436846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1006,
+        "name": "Sales Point 1006",
+        "region": "South Chennai",
+        "status": "pending",
+        "performance_score": 95,
+        "sales": 1825992,
+        "targets_met": 65,
+        "phone": "+91 934947959"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.17340058765919,
+          12.946849952109009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1007,
+        "name": "Sales Point 1007",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 82,
+        "sales": 2475917,
+        "targets_met": 54,
+        "phone": "+91 993236263"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.27888207401037,
+          13.107079924420244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1008,
+        "name": "Sales Point 1008",
+        "region": "South Chennai",
+        "status": "pending",
+        "performance_score": 33,
+        "sales": 669358,
+        "targets_met": 89,
+        "phone": "+91 943310857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.18531752289105,
+          12.859875684045257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1009,
+        "name": "Sales Point 1009",
+        "region": "South Chennai",
+        "status": "active",
+        "performance_score": 78,
+        "sales": 4869984,
+        "targets_met": 72,
+        "phone": "+91 986818158"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2425835026512,
+          12.933834171243477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1010,
+        "name": "Sales Point 1010",
+        "region": "West Chennai",
+        "status": "inactive",
+        "performance_score": 85,
+        "sales": 4883459,
+        "targets_met": 52,
+        "phone": "+91 993808464"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.19778551810327,
+          12.997014692397933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1011,
+        "name": "Sales Point 1011",
+        "region": "Central",
+        "status": "inactive",
+        "performance_score": 64,
+        "sales": 2396435,
+        "targets_met": 50,
+        "phone": "+91 943103809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.23124592073518,
+          13.027084534998615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1012,
+        "name": "Sales Point 1012",
+        "region": "North Chennai",
+        "status": "inactive",
+        "performance_score": 34,
+        "sales": 3715797,
+        "targets_met": 98,
+        "phone": "+91 996048608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.16171251858832,
+          13.139993543286959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1013,
+        "name": "Sales Point 1013",
+        "region": "Central",
+        "status": "inactive",
+        "performance_score": 75,
+        "sales": 2412529,
+        "targets_met": 72,
+        "phone": "+91 934175223"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.21562877852199,
+          13.019047434369185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1014,
+        "name": "Sales Point 1014",
+        "region": "Central",
+        "status": "inactive",
+        "performance_score": 59,
+        "sales": 877782,
+        "targets_met": 92,
+        "phone": "+91 948807970"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2481704556498,
+          13.020237872292816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1015,
+        "name": "Sales Point 1015",
+        "region": "South Chennai",
+        "status": "active",
+        "performance_score": 86,
+        "sales": 4758283,
+        "targets_met": 87,
+        "phone": "+91 926295807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.22203412766532,
+          12.892055941676206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1016,
+        "name": "Sales Point 1016",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 81,
+        "sales": 2624163,
+        "targets_met": 93,
+        "phone": "+91 943510856"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.15984280448099,
+          13.051034924932495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1017,
+        "name": "Sales Point 1017",
+        "region": "South Chennai",
+        "status": "inactive",
+        "performance_score": 25,
+        "sales": 3771017,
+        "targets_met": 73,
+        "phone": "+91 986638903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.28509150727791,
+          12.859830637704608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1018,
+        "name": "Sales Point 1018",
+        "region": "North Chennai",
+        "status": "pending",
+        "performance_score": 73,
+        "sales": 2299135,
+        "targets_met": 99,
+        "phone": "+91 920470228"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1655321746222,
+          13.107730620036957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1019,
+        "name": "Sales Point 1019",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 88,
+        "sales": 3220999,
+        "targets_met": 53,
+        "phone": "+91 974961899"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2263752931693,
+          13.098484065335542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1020,
+        "name": "Sales Point 1020",
+        "region": "South Chennai",
+        "status": "inactive",
+        "performance_score": 77,
+        "sales": 4232702,
+        "targets_met": 94,
+        "phone": "+91 919979933"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.21490635762464,
+          12.89078324208648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1021,
+        "name": "Sales Point 1021",
+        "region": "South Chennai",
+        "status": "active",
+        "performance_score": 26,
+        "sales": 4485037,
+        "targets_met": 52,
+        "phone": "+91 940812163"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.20532403774457,
+          12.900436535501916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1022,
+        "name": "Sales Point 1022",
+        "region": "North Chennai",
+        "status": "inactive",
+        "performance_score": 72,
+        "sales": 4255376,
+        "targets_met": 89,
+        "phone": "+91 961600622"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.21409637377805,
+          13.121641288858823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1023,
+        "name": "Sales Point 1023",
+        "region": "East Chennai",
+        "status": "active",
+        "performance_score": 80,
+        "sales": 4375706,
+        "targets_met": 70,
+        "phone": "+91 940977125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.25095824322612,
+          12.96175552702023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1024,
+        "name": "Sales Point 1024",
+        "region": "Central",
+        "status": "active",
+        "performance_score": 43,
+        "sales": 989811,
+        "targets_met": 30,
+        "phone": "+91 935544139"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.24970807920815,
+          13.041807857537966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1025,
+        "name": "Sales Point 1025",
+        "region": "South Chennai",
+        "status": "active",
+        "performance_score": 69,
+        "sales": 4658215,
+        "targets_met": 42,
+        "phone": "+91 984408811"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.17119610001373,
+          12.896633067029276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1026,
+        "name": "Sales Point 1026",
+        "region": "South Chennai",
+        "status": "active",
+        "performance_score": 89,
+        "sales": 2337946,
+        "targets_met": 85,
+        "phone": "+91 950571960"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.20361109917734,
+          12.857822232847397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1027,
+        "name": "Sales Point 1027",
+        "region": "South Chennai",
+        "status": "inactive",
+        "performance_score": 51,
+        "sales": 4071913,
+        "targets_met": 89,
+        "phone": "+91 953772356"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.21671864578589,
+          12.869931981487388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1028,
+        "name": "Sales Point 1028",
+        "region": "South Chennai",
+        "status": "active",
+        "performance_score": 95,
+        "sales": 4120883,
+        "targets_met": 58,
+        "phone": "+91 995169221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.28288951846737,
+          12.918531904577687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1029,
+        "name": "Sales Point 1029",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 87,
+        "sales": 996009,
+        "targets_met": 79,
+        "phone": "+91 934247687"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1508249868237,
+          13.090899921876103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1030,
+        "name": "Sales Point 1030",
+        "region": "North Chennai",
+        "status": "inactive",
+        "performance_score": 94,
+        "sales": 2115433,
+        "targets_met": 43,
+        "phone": "+91 955754953"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.21580014084195,
+          13.124595801620282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1031,
+        "name": "Sales Point 1031",
+        "region": "North Chennai",
+        "status": "pending",
+        "performance_score": 87,
+        "sales": 3119052,
+        "targets_met": 37,
+        "phone": "+91 974275505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.24825145877381,
+          13.102543435100811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1032,
+        "name": "Sales Point 1032",
+        "region": "East Chennai",
+        "status": "active",
+        "performance_score": 22,
+        "sales": 1349510,
+        "targets_met": 55,
+        "phone": "+91 926556196"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2837184524935,
+          12.952484047950708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1033,
+        "name": "Sales Point 1033",
+        "region": "East Chennai",
+        "status": "inactive",
+        "performance_score": 95,
+        "sales": 3809007,
+        "targets_met": 78,
+        "phone": "+91 954936541"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.28585852485004,
+          12.978420949558183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1034,
+        "name": "Sales Point 1034",
+        "region": "North Chennai",
+        "status": "pending",
+        "performance_score": 79,
+        "sales": 2305108,
+        "targets_met": 86,
+        "phone": "+91 996507898"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.24416058420147,
+          13.106975055458642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1035,
+        "name": "Sales Point 1035",
+        "region": "South Chennai",
+        "status": "inactive",
+        "performance_score": 69,
+        "sales": 576736,
+        "targets_met": 97,
+        "phone": "+91 955704439"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.27528333418131,
+          12.937822789918558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1036,
+        "name": "Sales Point 1036",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 27,
+        "sales": 1179312,
+        "targets_met": 81,
+        "phone": "+91 911936823"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.25010636776734,
+          13.058376846069725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1037,
+        "name": "Sales Point 1037",
+        "region": "North Chennai",
+        "status": "pending",
+        "performance_score": 35,
+        "sales": 1778954,
+        "targets_met": 70,
+        "phone": "+91 919957090"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.22026607816863,
+          13.06586088516266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1038,
+        "name": "Sales Point 1038",
+        "region": "West Chennai",
+        "status": "pending",
+        "performance_score": 37,
+        "sales": 3144381,
+        "targets_met": 65,
+        "phone": "+91 967859654"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.15617031981168,
+          13.00387716245592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1039,
+        "name": "Sales Point 1039",
+        "region": "South Chennai",
+        "status": "inactive",
+        "performance_score": 24,
+        "sales": 2204002,
+        "targets_met": 45,
+        "phone": "+91 981054177"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.24006401448842,
+          12.92348790943863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1040,
+        "name": "Sales Point 1040",
+        "region": "North Chennai",
+        "status": "inactive",
+        "performance_score": 62,
+        "sales": 3045158,
+        "targets_met": 76,
+        "phone": "+91 956291129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.29451444661164,
+          13.11926255492646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1041,
+        "name": "Sales Point 1041",
+        "region": "West Chennai",
+        "status": "inactive",
+        "performance_score": 62,
+        "sales": 2226760,
+        "targets_met": 96,
+        "phone": "+91 960511366"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1686358181488,
+          13.025088456811215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1042,
+        "name": "Sales Point 1042",
+        "region": "East Chennai",
+        "status": "active",
+        "performance_score": 43,
+        "sales": 4636505,
+        "targets_met": 30,
+        "phone": "+91 989306582"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.28175523943166,
+          12.986825433508885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1043,
+        "name": "Sales Point 1043",
+        "region": "North Chennai",
+        "status": "pending",
+        "performance_score": 51,
+        "sales": 3130140,
+        "targets_met": 80,
+        "phone": "+91 927377587"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.15191304417871,
+          13.124171065769602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1044,
+        "name": "Sales Point 1044",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 86,
+        "sales": 4102195,
+        "targets_met": 87,
+        "phone": "+91 940049539"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.16718035839104,
+          13.107941317300163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1045,
+        "name": "Sales Point 1045",
+        "region": "West Chennai",
+        "status": "active",
+        "performance_score": 92,
+        "sales": 572579,
+        "targets_met": 41,
+        "phone": "+91 971931982"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.16907277806067,
+          12.978543974034821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1046,
+        "name": "Sales Point 1046",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 49,
+        "sales": 2785409,
+        "targets_met": 68,
+        "phone": "+91 963196913"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.24998323513455,
+          13.085674454005106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1047,
+        "name": "Sales Point 1047",
+        "region": "South Chennai",
+        "status": "active",
+        "performance_score": 69,
+        "sales": 4048977,
+        "targets_met": 37,
+        "phone": "+91 919773447"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.21775322482819,
+          12.855117961342943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1048,
+        "name": "Sales Point 1048",
+        "region": "Central",
+        "status": "inactive",
+        "performance_score": 43,
+        "sales": 4451932,
+        "targets_met": 81,
+        "phone": "+91 980371281"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.23271579937175,
+          12.970697198064498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1049,
+        "name": "Sales Point 1049",
+        "region": "South Chennai",
+        "status": "active",
+        "performance_score": 63,
+        "sales": 1267154,
+        "targets_met": 64,
+        "phone": "+91 990044194"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.25619196959985,
+          12.90781731795584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1050,
+        "name": "Sales Point 1050",
+        "region": "North Chennai",
+        "status": "pending",
+        "performance_score": 37,
+        "sales": 2282987,
+        "targets_met": 51,
+        "phone": "+91 979289277"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.25980991990318,
+          13.144836849184601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1051,
+        "name": "Sales Point 1051",
+        "region": "West Chennai",
+        "status": "active",
+        "performance_score": 93,
+        "sales": 4675069,
+        "targets_met": 86,
+        "phone": "+91 935418000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.18748398059749,
+          12.9527287735456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1052,
+        "name": "Sales Point 1052",
+        "region": "Central",
+        "status": "pending",
+        "performance_score": 72,
+        "sales": 3283998,
+        "targets_met": 92,
+        "phone": "+91 969822467"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.23684393330849,
+          13.01086851214252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1053,
+        "name": "Sales Point 1053",
+        "region": "Central",
+        "status": "active",
+        "performance_score": 78,
+        "sales": 4284156,
+        "targets_met": 53,
+        "phone": "+91 910754937"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.24525685666602,
+          13.023443229799073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1054,
+        "name": "Sales Point 1054",
+        "region": "Central",
+        "status": "active",
+        "performance_score": 75,
+        "sales": 1026228,
+        "targets_met": 30,
+        "phone": "+91 948687304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.21544063257967,
+          12.988271350797943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1055,
+        "name": "Sales Point 1055",
+        "region": "East Chennai",
+        "status": "pending",
+        "performance_score": 54,
+        "sales": 4465053,
+        "targets_met": 53,
+        "phone": "+91 980454966"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.25247661359208,
+          13.025218222775125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1056,
+        "name": "Sales Point 1056",
+        "region": "East Chennai",
+        "status": "inactive",
+        "performance_score": 70,
+        "sales": 2223765,
+        "targets_met": 80,
+        "phone": "+91 927199753"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.25499764347214,
+          13.034206527787704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1057,
+        "name": "Sales Point 1057",
+        "region": "Central",
+        "status": "inactive",
+        "performance_score": 68,
+        "sales": 3575611,
+        "targets_met": 31,
+        "phone": "+91 999394044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.21733719380165,
+          12.998432979201606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1058,
+        "name": "Sales Point 1058",
+        "region": "East Chennai",
+        "status": "active",
+        "performance_score": 80,
+        "sales": 3721114,
+        "targets_met": 36,
+        "phone": "+91 914396098"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.29018152536572,
+          12.954289949740945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1059,
+        "name": "Sales Point 1059",
+        "region": "North Chennai",
+        "status": "inactive",
+        "performance_score": 46,
+        "sales": 4374319,
+        "targets_met": 91,
+        "phone": "+91 927578985"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.16175133605445,
+          13.131489751587107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1060,
+        "name": "Sales Point 1060",
+        "region": "North Chennai",
+        "status": "pending",
+        "performance_score": 41,
+        "sales": 4890874,
+        "targets_met": 50,
+        "phone": "+91 978356097"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.24421531330276,
+          13.101197060034838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1061,
+        "name": "Sales Point 1061",
+        "region": "South Chennai",
+        "status": "active",
+        "performance_score": 35,
+        "sales": 3528678,
+        "targets_met": 81,
+        "phone": "+91 967157913"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.15458144166536,
+          12.858811263778966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1062,
+        "name": "Sales Point 1062",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 39,
+        "sales": 2852085,
+        "targets_met": 74,
+        "phone": "+91 920886481"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.15529874407389,
+          13.094085249858376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1063,
+        "name": "Sales Point 1063",
+        "region": "North Chennai",
+        "status": "inactive",
+        "performance_score": 72,
+        "sales": 2100682,
+        "targets_met": 76,
+        "phone": "+91 930010811"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2781060197122,
+          13.096068582589954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1064,
+        "name": "Sales Point 1064",
+        "region": "East Chennai",
+        "status": "pending",
+        "performance_score": 29,
+        "sales": 3451762,
+        "targets_met": 53,
+        "phone": "+91 940046685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.25826060378111,
+          12.999024060243219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1065,
+        "name": "Sales Point 1065",
+        "region": "East Chennai",
+        "status": "active",
+        "performance_score": 34,
+        "sales": 4854731,
+        "targets_met": 59,
+        "phone": "+91 970782445"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.29958925958054,
+          13.046476494619387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1066,
+        "name": "Sales Point 1066",
+        "region": "North Chennai",
+        "status": "pending",
+        "performance_score": 56,
+        "sales": 4546523,
+        "targets_met": 89,
+        "phone": "+91 958487644"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.19496914453916,
+          13.114356615391735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1067,
+        "name": "Sales Point 1067",
+        "region": "Central",
+        "status": "inactive",
+        "performance_score": 24,
+        "sales": 734647,
+        "targets_met": 59,
+        "phone": "+91 928994184"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.20870974464982,
+          13.000388202766086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1068,
+        "name": "Sales Point 1068",
+        "region": "North Chennai",
+        "status": "pending",
+        "performance_score": 74,
+        "sales": 4988347,
+        "targets_met": 67,
+        "phone": "+91 981971827"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.22643027126662,
+          13.110379416995075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1069,
+        "name": "Sales Point 1069",
+        "region": "North Chennai",
+        "status": "pending",
+        "performance_score": 27,
+        "sales": 3746434,
+        "targets_met": 71,
+        "phone": "+91 994950155"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.23258243730147,
+          13.100992548018251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1070,
+        "name": "Sales Point 1070",
+        "region": "Central",
+        "status": "pending",
+        "performance_score": 54,
+        "sales": 3406366,
+        "targets_met": 30,
+        "phone": "+91 911796960"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.22976547844085,
+          13.006058634648198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1071,
+        "name": "Sales Point 1071",
+        "region": "East Chennai",
+        "status": "active",
+        "performance_score": 95,
+        "sales": 3978485,
+        "targets_met": 57,
+        "phone": "+91 921970357"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.28819406076879,
+          13.049365879746999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1072,
+        "name": "Sales Point 1072",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 91,
+        "sales": 723983,
+        "targets_met": 62,
+        "phone": "+91 982363975"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.15628361344199,
+          13.126419705652491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1073,
+        "name": "Sales Point 1073",
+        "region": "West Chennai",
+        "status": "pending",
+        "performance_score": 49,
+        "sales": 2918065,
+        "targets_met": 76,
+        "phone": "+91 995661560"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.19441100579569,
+          12.99456097075091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1074,
+        "name": "Sales Point 1074",
+        "region": "South Chennai",
+        "status": "inactive",
+        "performance_score": 56,
+        "sales": 3002295,
+        "targets_met": 84,
+        "phone": "+91 930081182"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.19301346402952,
+          12.871560496356732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1075,
+        "name": "Sales Point 1075",
+        "region": "North Chennai",
+        "status": "inactive",
+        "performance_score": 24,
+        "sales": 2010929,
+        "targets_met": 44,
+        "phone": "+91 932463315"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.20520731224121,
+          13.090106420562584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1076,
+        "name": "Sales Point 1076",
+        "region": "Central",
+        "status": "pending",
+        "performance_score": 50,
+        "sales": 4675162,
+        "targets_met": 32,
+        "phone": "+91 912845052"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.23440896874313,
+          12.989659278529626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1077,
+        "name": "Sales Point 1077",
+        "region": "South Chennai",
+        "status": "pending",
+        "performance_score": 42,
+        "sales": 603553,
+        "targets_met": 75,
+        "phone": "+91 911092377"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.21852863471828,
+          12.885965873234413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1078,
+        "name": "Sales Point 1078",
+        "region": "Central",
+        "status": "active",
+        "performance_score": 20,
+        "sales": 4510160,
+        "targets_met": 86,
+        "phone": "+91 926216269"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.20117082525837,
+          13.027332936651188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1079,
+        "name": "Sales Point 1079",
+        "region": "North Chennai",
+        "status": "inactive",
+        "performance_score": 91,
+        "sales": 1519028,
+        "targets_met": 100,
+        "phone": "+91 964501355"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.27449096376154,
+          13.136838438689235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1080,
+        "name": "Sales Point 1080",
+        "region": "South Chennai",
+        "status": "pending",
+        "performance_score": 62,
+        "sales": 1008216,
+        "targets_met": 82,
+        "phone": "+91 996135983"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.21789470167828,
+          12.921174912171338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1081,
+        "name": "Sales Point 1081",
+        "region": "Central",
+        "status": "active",
+        "performance_score": 62,
+        "sales": 2224856,
+        "targets_met": 40,
+        "phone": "+91 927806067"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.22601743347143,
+          12.965844536867818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1082,
+        "name": "Sales Point 1082",
+        "region": "South Chennai",
+        "status": "inactive",
+        "performance_score": 42,
+        "sales": 3056096,
+        "targets_met": 49,
+        "phone": "+91 915916281"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.26884910953015,
+          12.865112273099294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1083,
+        "name": "Sales Point 1083",
+        "region": "East Chennai",
+        "status": "active",
+        "performance_score": 86,
+        "sales": 4462290,
+        "targets_met": 92,
+        "phone": "+91 948686322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.26953592992258,
+          12.993370077666855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1084,
+        "name": "Sales Point 1084",
+        "region": "North Chennai",
+        "status": "inactive",
+        "performance_score": 83,
+        "sales": 4572533,
+        "targets_met": 46,
+        "phone": "+91 911505421"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.24195176559954,
+          13.055883924019922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1085,
+        "name": "Sales Point 1085",
+        "region": "North Chennai",
+        "status": "inactive",
+        "performance_score": 79,
+        "sales": 3144384,
+        "targets_met": 79,
+        "phone": "+91 963290466"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.15201335374324,
+          13.134960963950324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1086,
+        "name": "Sales Point 1086",
+        "region": "West Chennai",
+        "status": "pending",
+        "performance_score": 42,
+        "sales": 749788,
+        "targets_met": 45,
+        "phone": "+91 957062912"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.17879254875504,
+          12.954429843922817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1087,
+        "name": "Sales Point 1087",
+        "region": "East Chennai",
+        "status": "active",
+        "performance_score": 95,
+        "sales": 1571226,
+        "targets_met": 93,
+        "phone": "+91 972423249"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.29684757085589,
+          12.984194615904546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1088,
+        "name": "Sales Point 1088",
+        "region": "East Chennai",
+        "status": "inactive",
+        "performance_score": 50,
+        "sales": 1510637,
+        "targets_met": 80,
+        "phone": "+91 911516868"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.27215236755228,
+          12.973039728917204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1089,
+        "name": "Sales Point 1089",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 49,
+        "sales": 2450799,
+        "targets_met": 90,
+        "phone": "+91 919672013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.22103020925076,
+          13.125263753068591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1090,
+        "name": "Sales Point 1090",
+        "region": "East Chennai",
+        "status": "pending",
+        "performance_score": 24,
+        "sales": 658971,
+        "targets_met": 32,
+        "phone": "+91 935745723"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2799841818797,
+          13.003870740774333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1091,
+        "name": "Sales Point 1091",
+        "region": "South Chennai",
+        "status": "active",
+        "performance_score": 20,
+        "sales": 3007187,
+        "targets_met": 44,
+        "phone": "+91 998821644"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.27880728518491,
+          12.937933220257285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1092,
+        "name": "Sales Point 1092",
+        "region": "North Chennai",
+        "status": "inactive",
+        "performance_score": 57,
+        "sales": 726925,
+        "targets_met": 82,
+        "phone": "+91 933189177"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.15545285880337,
+          13.087819636364419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1093,
+        "name": "Sales Point 1093",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 68,
+        "sales": 1181115,
+        "targets_met": 70,
+        "phone": "+91 975762029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.24830413486107,
+          13.111212063300883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1094,
+        "name": "Sales Point 1094",
+        "region": "North Chennai",
+        "status": "inactive",
+        "performance_score": 71,
+        "sales": 1141114,
+        "targets_met": 56,
+        "phone": "+91 916160809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.16877280136804,
+          13.084645527082948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1095,
+        "name": "Sales Point 1095",
+        "region": "South Chennai",
+        "status": "active",
+        "performance_score": 41,
+        "sales": 3547144,
+        "targets_met": 38,
+        "phone": "+91 983539215"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.16333816663126,
+          12.883018909881836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1096,
+        "name": "Sales Point 1096",
+        "region": "Central",
+        "status": "active",
+        "performance_score": 92,
+        "sales": 2210082,
+        "targets_met": 33,
+        "phone": "+91 946025465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.23625535302747,
+          13.031955927659002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1097,
+        "name": "Sales Point 1097",
+        "region": "North Chennai",
+        "status": "pending",
+        "performance_score": 64,
+        "sales": 3167199,
+        "targets_met": 83,
+        "phone": "+91 956270441"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.24281667334597,
+          13.059866302322261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1098,
+        "name": "Sales Point 1098",
+        "region": "East Chennai",
+        "status": "inactive",
+        "performance_score": 89,
+        "sales": 578517,
+        "targets_met": 92,
+        "phone": "+91 927005588"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.26265953079948,
+          12.987895181857587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1099,
+        "name": "Sales Point 1099",
+        "region": "Central",
+        "status": "active",
+        "performance_score": 60,
+        "sales": 1097685,
+        "targets_met": 45,
+        "phone": "+91 986154585"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.23103137401546,
+          12.996423763667567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1100,
+        "name": "Sales Point 1100",
+        "region": "West Chennai",
+        "status": "pending",
+        "performance_score": 74,
+        "sales": 1840880,
+        "targets_met": 93,
+        "phone": "+91 949171728"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1797323409482,
+          13.03194480332871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1101,
+        "name": "Sales Point 1101",
+        "region": "South Chennai",
+        "status": "inactive",
+        "performance_score": 53,
+        "sales": 684477,
+        "targets_met": 89,
+        "phone": "+91 956204409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1951163912673,
+          12.878568869716098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1102,
+        "name": "Sales Point 1102",
+        "region": "South Chennai",
+        "status": "pending",
+        "performance_score": 93,
+        "sales": 1708639,
+        "targets_met": 81,
+        "phone": "+91 973290631"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.26047879140562,
+          12.909929121440669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1103,
+        "name": "Sales Point 1103",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 35,
+        "sales": 4126979,
+        "targets_met": 49,
+        "phone": "+91 986995327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.29746316913553,
+          13.065400895833154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1104,
+        "name": "Sales Point 1104",
+        "region": "Central",
+        "status": "inactive",
+        "performance_score": 44,
+        "sales": 4245032,
+        "targets_met": 56,
+        "phone": "+91 985325861"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2392295447465,
+          12.961367162955836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1105,
+        "name": "Sales Point 1105",
+        "region": "West Chennai",
+        "status": "pending",
+        "performance_score": 26,
+        "sales": 801784,
+        "targets_met": 89,
+        "phone": "+91 981399722"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.16795934485353,
+          12.990605621675519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1106,
+        "name": "Sales Point 1106",
+        "region": "North Chennai",
+        "status": "inactive",
+        "performance_score": 89,
+        "sales": 1895158,
+        "targets_met": 82,
+        "phone": "+91 976551946"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.16605482832583,
+          13.104489115532301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1107,
+        "name": "Sales Point 1107",
+        "region": "South Chennai",
+        "status": "pending",
+        "performance_score": 37,
+        "sales": 1500191,
+        "targets_met": 85,
+        "phone": "+91 928242043"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1705947398804,
+          12.929432310487561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1108,
+        "name": "Sales Point 1108",
+        "region": "South Chennai",
+        "status": "inactive",
+        "performance_score": 47,
+        "sales": 1890557,
+        "targets_met": 48,
+        "phone": "+91 916784139"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.15436384115223,
+          12.901151253097337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1109,
+        "name": "Sales Point 1109",
+        "region": "West Chennai",
+        "status": "active",
+        "performance_score": 30,
+        "sales": 4386012,
+        "targets_met": 35,
+        "phone": "+91 985611465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.19578226068236,
+          12.97333503821439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1110,
+        "name": "Sales Point 1110",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 69,
+        "sales": 2491853,
+        "targets_met": 70,
+        "phone": "+91 985336149"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.27969601353746,
+          13.058179799171912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1111,
+        "name": "Sales Point 1111",
+        "region": "South Chennai",
+        "status": "inactive",
+        "performance_score": 62,
+        "sales": 1809366,
+        "targets_met": 96,
+        "phone": "+91 954840498"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.15103909875823,
+          12.900466929186928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1112,
+        "name": "Sales Point 1112",
+        "region": "Central",
+        "status": "inactive",
+        "performance_score": 81,
+        "sales": 2257939,
+        "targets_met": 66,
+        "phone": "+91 963129806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.24639209680079,
+          12.970096524862395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1113,
+        "name": "Sales Point 1113",
+        "region": "South Chennai",
+        "status": "inactive",
+        "performance_score": 90,
+        "sales": 1994208,
+        "targets_met": 71,
+        "phone": "+91 912352428"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.17713533570593,
+          12.898588853346665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1114,
+        "name": "Sales Point 1114",
+        "region": "South Chennai",
+        "status": "active",
+        "performance_score": 42,
+        "sales": 3727734,
+        "targets_met": 82,
+        "phone": "+91 965031851"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.20728402046487,
+          12.902713592608329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1115,
+        "name": "Sales Point 1115",
+        "region": "South Chennai",
+        "status": "inactive",
+        "performance_score": 78,
+        "sales": 1329859,
+        "targets_met": 98,
+        "phone": "+91 933019580"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2845556853601,
+          12.893132784308921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1116,
+        "name": "Sales Point 1116",
+        "region": "North Chennai",
+        "status": "inactive",
+        "performance_score": 41,
+        "sales": 569074,
+        "targets_met": 31,
+        "phone": "+91 995406764"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.22025227961377,
+          13.129652048774709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1117,
+        "name": "Sales Point 1117",
+        "region": "North Chennai",
+        "status": "inactive",
+        "performance_score": 45,
+        "sales": 4297858,
+        "targets_met": 82,
+        "phone": "+91 965756121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.26658193230378,
+          13.086647322491853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1118,
+        "name": "Sales Point 1118",
+        "region": "South Chennai",
+        "status": "active",
+        "performance_score": 35,
+        "sales": 2013166,
+        "targets_met": 47,
+        "phone": "+91 962423502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.19596271558211,
+          12.885353201666378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1119,
+        "name": "Sales Point 1119",
+        "region": "East Chennai",
+        "status": "active",
+        "performance_score": 87,
+        "sales": 3939256,
+        "targets_met": 84,
+        "phone": "+91 965277866"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2757549267254,
+          12.956588968443416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1120,
+        "name": "Sales Point 1120",
+        "region": "North Chennai",
+        "status": "inactive",
+        "performance_score": 47,
+        "sales": 1923501,
+        "targets_met": 51,
+        "phone": "+91 993382657"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.27297809805678,
+          13.131692327488192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1121,
+        "name": "Sales Point 1121",
+        "region": "North Chennai",
+        "status": "pending",
+        "performance_score": 61,
+        "sales": 2119638,
+        "targets_met": 42,
+        "phone": "+91 971393241"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.27734461113202,
+          13.141367638542086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1122,
+        "name": "Sales Point 1122",
+        "region": "South Chennai",
+        "status": "pending",
+        "performance_score": 43,
+        "sales": 3610754,
+        "targets_met": 54,
+        "phone": "+91 972945471"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.23669065089194,
+          12.922668908744013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1123,
+        "name": "Sales Point 1123",
+        "region": "East Chennai",
+        "status": "pending",
+        "performance_score": 23,
+        "sales": 2220817,
+        "targets_met": 43,
+        "phone": "+91 982108688"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.27643542649562,
+          13.043561490850399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1124,
+        "name": "Sales Point 1124",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 94,
+        "sales": 3628693,
+        "targets_met": 87,
+        "phone": "+91 980668345"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.21339625278368,
+          13.095746412211879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1125,
+        "name": "Sales Point 1125",
+        "region": "South Chennai",
+        "status": "pending",
+        "performance_score": 94,
+        "sales": 2539561,
+        "targets_met": 51,
+        "phone": "+91 955508476"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.20450548107718,
+          12.922730791804025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1126,
+        "name": "Sales Point 1126",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 91,
+        "sales": 1962060,
+        "targets_met": 83,
+        "phone": "+91 927335218"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.15641034064141,
+          13.061533304911741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1127,
+        "name": "Sales Point 1127",
+        "region": "North Chennai",
+        "status": "pending",
+        "performance_score": 90,
+        "sales": 1331819,
+        "targets_met": 52,
+        "phone": "+91 926178501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.19586253115253,
+          13.052027606723701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1128,
+        "name": "Sales Point 1128",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 27,
+        "sales": 1975354,
+        "targets_met": 93,
+        "phone": "+91 980423743"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.29435752791127,
+          13.071990163068547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1129,
+        "name": "Sales Point 1129",
+        "region": "Central",
+        "status": "inactive",
+        "performance_score": 32,
+        "sales": 4578768,
+        "targets_met": 42,
+        "phone": "+91 950756144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2169784895642,
+          13.011952704402011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1130,
+        "name": "Sales Point 1130",
+        "region": "North Chennai",
+        "status": "pending",
+        "performance_score": 86,
+        "sales": 1709800,
+        "targets_met": 70,
+        "phone": "+91 912065963"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.22587271473223,
+          13.108116759861327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1131,
+        "name": "Sales Point 1131",
+        "region": "North Chennai",
+        "status": "pending",
+        "performance_score": 41,
+        "sales": 4115512,
+        "targets_met": 36,
+        "phone": "+91 925252943"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.28393183041625,
+          13.118927321571423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1132,
+        "name": "Sales Point 1132",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 46,
+        "sales": 2276887,
+        "targets_met": 48,
+        "phone": "+91 970646670"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.15818088425135,
+          13.14212380957045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1133,
+        "name": "Sales Point 1133",
+        "region": "South Chennai",
+        "status": "pending",
+        "performance_score": 94,
+        "sales": 1327320,
+        "targets_met": 63,
+        "phone": "+91 992152321"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.29637275534996,
+          12.94462987814544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1134,
+        "name": "Sales Point 1134",
+        "region": "West Chennai",
+        "status": "inactive",
+        "performance_score": 84,
+        "sales": 1048536,
+        "targets_met": 59,
+        "phone": "+91 943023711"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.16733903793835,
+          12.978036782962537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1135,
+        "name": "Sales Point 1135",
+        "region": "South Chennai",
+        "status": "pending",
+        "performance_score": 50,
+        "sales": 712918,
+        "targets_met": 54,
+        "phone": "+91 989852591"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.19785285227312,
+          12.947492449052417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1136,
+        "name": "Sales Point 1136",
+        "region": "East Chennai",
+        "status": "inactive",
+        "performance_score": 32,
+        "sales": 2547208,
+        "targets_met": 36,
+        "phone": "+91 955637393"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.27498832388775,
+          12.992271996653384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1137,
+        "name": "Sales Point 1137",
+        "region": "South Chennai",
+        "status": "inactive",
+        "performance_score": 25,
+        "sales": 2794569,
+        "targets_met": 88,
+        "phone": "+91 959126048"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.29381752843119,
+          12.855812925811327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1138,
+        "name": "Sales Point 1138",
+        "region": "East Chennai",
+        "status": "pending",
+        "performance_score": 79,
+        "sales": 533141,
+        "targets_met": 80,
+        "phone": "+91 963388199"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.28487968880981,
+          13.018838405693872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1139,
+        "name": "Sales Point 1139",
+        "region": "Central",
+        "status": "inactive",
+        "performance_score": 87,
+        "sales": 1558927,
+        "targets_met": 34,
+        "phone": "+91 952300766"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.24575327658698,
+          12.997266399041902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1140,
+        "name": "Sales Point 1140",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 71,
+        "sales": 1621963,
+        "targets_met": 58,
+        "phone": "+91 913053173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2913177293435,
+          13.065636173600756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1141,
+        "name": "Sales Point 1141",
+        "region": "South Chennai",
+        "status": "pending",
+        "performance_score": 81,
+        "sales": 2731406,
+        "targets_met": 66,
+        "phone": "+91 985788132"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.21160093215431,
+          12.893662660500246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1142,
+        "name": "Sales Point 1142",
+        "region": "North Chennai",
+        "status": "inactive",
+        "performance_score": 88,
+        "sales": 1957084,
+        "targets_met": 81,
+        "phone": "+91 982939675"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.25079305179456,
+          13.082855321522128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1143,
+        "name": "Sales Point 1143",
+        "region": "Central",
+        "status": "pending",
+        "performance_score": 30,
+        "sales": 1940821,
+        "targets_met": 64,
+        "phone": "+91 951036165"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.22508129317688,
+          12.95624333579667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1144,
+        "name": "Sales Point 1144",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 27,
+        "sales": 1107207,
+        "targets_met": 60,
+        "phone": "+91 967793071"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.22791483932528,
+          13.107848689498908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1145,
+        "name": "Sales Point 1145",
+        "region": "North Chennai",
+        "status": "pending",
+        "performance_score": 45,
+        "sales": 1495696,
+        "targets_met": 100,
+        "phone": "+91 938683779"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.28623963299985,
+          13.116948048242216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1146,
+        "name": "Sales Point 1146",
+        "region": "North Chennai",
+        "status": "inactive",
+        "performance_score": 39,
+        "sales": 3713389,
+        "targets_met": 89,
+        "phone": "+91 964866147"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.16600656413713,
+          13.119409329927795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147,
+        "name": "Sales Point 1147",
+        "region": "West Chennai",
+        "status": "inactive",
+        "performance_score": 29,
+        "sales": 4428842,
+        "targets_met": 45,
+        "phone": "+91 915063510"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.17914474837079,
+          13.037592402822511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1148,
+        "name": "Sales Point 1148",
+        "region": "South Chennai",
+        "status": "active",
+        "performance_score": 78,
+        "sales": 2838529,
+        "targets_met": 58,
+        "phone": "+91 921499615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.19870869230152,
+          12.92456380880353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1149,
+        "name": "Sales Point 1149",
+        "region": "North Chennai",
+        "status": "pending",
+        "performance_score": 33,
+        "sales": 4917068,
+        "targets_met": 65,
+        "phone": "+91 985679261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.26889366573108,
+          13.143620455006182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1150,
+        "name": "Sales Point 1150",
+        "region": "East Chennai",
+        "status": "pending",
+        "performance_score": 41,
+        "sales": 4932437,
+        "targets_met": 57,
+        "phone": "+91 930955840"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.27792855493333,
+          13.026069232569338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1151,
+        "name": "Sales Point 1151",
+        "region": "South Chennai",
+        "status": "active",
+        "performance_score": 57,
+        "sales": 4151166,
+        "targets_met": 71,
+        "phone": "+91 987198742"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.28956559306502,
+          12.90019721771126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1152,
+        "name": "Sales Point 1152",
+        "region": "West Chennai",
+        "status": "pending",
+        "performance_score": 85,
+        "sales": 1165662,
+        "targets_met": 66,
+        "phone": "+91 971609435"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.19271039292954,
+          12.980846750529128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1153,
+        "name": "Sales Point 1153",
+        "region": "East Chennai",
+        "status": "pending",
+        "performance_score": 83,
+        "sales": 932653,
+        "targets_met": 97,
+        "phone": "+91 914422012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.28092599565247,
+          12.968319890136655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1154,
+        "name": "Sales Point 1154",
+        "region": "South Chennai",
+        "status": "pending",
+        "performance_score": 42,
+        "sales": 2891937,
+        "targets_met": 54,
+        "phone": "+91 998480570"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1949573867435,
+          12.874467392270043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1155,
+        "name": "Sales Point 1155",
+        "region": "North Chennai",
+        "status": "inactive",
+        "performance_score": 71,
+        "sales": 855608,
+        "targets_met": 64,
+        "phone": "+91 975732909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.24248773146398,
+          13.136830528891442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1156,
+        "name": "Sales Point 1156",
+        "region": "South Chennai",
+        "status": "active",
+        "performance_score": 67,
+        "sales": 3027591,
+        "targets_met": 77,
+        "phone": "+91 920059876"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2774397958253,
+          12.93192090736162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1157,
+        "name": "Sales Point 1157",
+        "region": "North Chennai",
+        "status": "pending",
+        "performance_score": 45,
+        "sales": 1881401,
+        "targets_met": 43,
+        "phone": "+91 963680918"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.18230186104248,
+          13.07841026126337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1158,
+        "name": "Sales Point 1158",
+        "region": "East Chennai",
+        "status": "active",
+        "performance_score": 40,
+        "sales": 2235270,
+        "targets_met": 68,
+        "phone": "+91 950966043"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.25432351940202,
+          13.004084493384417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1159,
+        "name": "Sales Point 1159",
+        "region": "West Chennai",
+        "status": "inactive",
+        "performance_score": 65,
+        "sales": 3036127,
+        "targets_met": 30,
+        "phone": "+91 943692847"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.15011727852679,
+          13.046844307603228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1160,
+        "name": "Sales Point 1160",
+        "region": "West Chennai",
+        "status": "inactive",
+        "performance_score": 93,
+        "sales": 2102671,
+        "targets_met": 59,
+        "phone": "+91 948356012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.18149946300791,
+          13.040415924079026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1161,
+        "name": "Sales Point 1161",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 78,
+        "sales": 4439134,
+        "targets_met": 44,
+        "phone": "+91 944814807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.19409263426797,
+          13.077501640622465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1162,
+        "name": "Sales Point 1162",
+        "region": "Central",
+        "status": "active",
+        "performance_score": 27,
+        "sales": 3842020,
+        "targets_met": 30,
+        "phone": "+91 945194438"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.21689474566548,
+          12.966187664215012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1163,
+        "name": "Sales Point 1163",
+        "region": "South Chennai",
+        "status": "pending",
+        "performance_score": 25,
+        "sales": 3518257,
+        "targets_met": 81,
+        "phone": "+91 989179432"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.22614683176839,
+          12.85411663839152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1164,
+        "name": "Sales Point 1164",
+        "region": "North Chennai",
+        "status": "pending",
+        "performance_score": 88,
+        "sales": 2568526,
+        "targets_met": 89,
+        "phone": "+91 921803488"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.15160253083083,
+          13.11580165521946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1165,
+        "name": "Sales Point 1165",
+        "region": "Central",
+        "status": "pending",
+        "performance_score": 92,
+        "sales": 1950982,
+        "targets_met": 82,
+        "phone": "+91 939393423"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.22082751151669,
+          12.951850544657683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1166,
+        "name": "Sales Point 1166",
+        "region": "South Chennai",
+        "status": "inactive",
+        "performance_score": 29,
+        "sales": 1192692,
+        "targets_met": 81,
+        "phone": "+91 974157075"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1643989218443,
+          12.880559168136955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1167,
+        "name": "Sales Point 1167",
+        "region": "West Chennai",
+        "status": "pending",
+        "performance_score": 72,
+        "sales": 1198952,
+        "targets_met": 59,
+        "phone": "+91 951867104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.17754064391927,
+          12.970932698681887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1168,
+        "name": "Sales Point 1168",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 65,
+        "sales": 2659361,
+        "targets_met": 30,
+        "phone": "+91 944630748"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.28457404930772,
+          13.066690625666665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1169,
+        "name": "Sales Point 1169",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 58,
+        "sales": 4803198,
+        "targets_met": 66,
+        "phone": "+91 919854772"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.23139334123076,
+          13.078118086750012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1170,
+        "name": "Sales Point 1170",
+        "region": "East Chennai",
+        "status": "pending",
+        "performance_score": 69,
+        "sales": 945408,
+        "targets_met": 54,
+        "phone": "+91 941203052"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.25643665443036,
+          13.016964760273932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1171,
+        "name": "Sales Point 1171",
+        "region": "South Chennai",
+        "status": "inactive",
+        "performance_score": 94,
+        "sales": 2225653,
+        "targets_met": 80,
+        "phone": "+91 942385233"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.25443167390598,
+          12.850847791434028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1172,
+        "name": "Sales Point 1172",
+        "region": "East Chennai",
+        "status": "inactive",
+        "performance_score": 28,
+        "sales": 1258735,
+        "targets_met": 88,
+        "phone": "+91 968448814"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2983436166501,
+          12.96878606433529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1173,
+        "name": "Sales Point 1173",
+        "region": "South Chennai",
+        "status": "active",
+        "performance_score": 75,
+        "sales": 1470062,
+        "targets_met": 78,
+        "phone": "+91 955386752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.25736354086793,
+          12.939899368947865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1174,
+        "name": "Sales Point 1174",
+        "region": "South Chennai",
+        "status": "inactive",
+        "performance_score": 47,
+        "sales": 3955829,
+        "targets_met": 58,
+        "phone": "+91 967833568"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.22168603681052,
+          12.91756598912584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1175,
+        "name": "Sales Point 1175",
+        "region": "South Chennai",
+        "status": "pending",
+        "performance_score": 86,
+        "sales": 2676458,
+        "targets_met": 39,
+        "phone": "+91 947598069"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2556314389309,
+          12.93976417492628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1176,
+        "name": "Sales Point 1176",
+        "region": "West Chennai",
+        "status": "inactive",
+        "performance_score": 27,
+        "sales": 2190037,
+        "targets_met": 99,
+        "phone": "+91 994063070"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.18934380405581,
+          13.025070440924578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1177,
+        "name": "Sales Point 1177",
+        "region": "South Chennai",
+        "status": "inactive",
+        "performance_score": 68,
+        "sales": 2026604,
+        "targets_met": 100,
+        "phone": "+91 982231226"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2145390237876,
+          12.931833520564853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1178,
+        "name": "Sales Point 1178",
+        "region": "Central",
+        "status": "inactive",
+        "performance_score": 41,
+        "sales": 1086630,
+        "targets_met": 31,
+        "phone": "+91 915196070"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.21030996116764,
+          13.02035770267232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1179,
+        "name": "Sales Point 1179",
+        "region": "North Chennai",
+        "status": "pending",
+        "performance_score": 30,
+        "sales": 4922444,
+        "targets_met": 51,
+        "phone": "+91 936860466"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.25383195511746,
+          13.107897242773044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1180,
+        "name": "Sales Point 1180",
+        "region": "North Chennai",
+        "status": "pending",
+        "performance_score": 80,
+        "sales": 3909684,
+        "targets_met": 74,
+        "phone": "+91 947540965"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.15121448731868,
+          13.102831423931535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1181,
+        "name": "Sales Point 1181",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 29,
+        "sales": 3957088,
+        "targets_met": 83,
+        "phone": "+91 955638648"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.225541721522,
+          13.13662828105431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1182,
+        "name": "Sales Point 1182",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 74,
+        "sales": 4960130,
+        "targets_met": 73,
+        "phone": "+91 943929270"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2921114306493,
+          13.121292393228767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1183,
+        "name": "Sales Point 1183",
+        "region": "East Chennai",
+        "status": "active",
+        "performance_score": 82,
+        "sales": 3426636,
+        "targets_met": 84,
+        "phone": "+91 994817566"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.25975640315467,
+          12.97620746412103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1184,
+        "name": "Sales Point 1184",
+        "region": "West Chennai",
+        "status": "pending",
+        "performance_score": 45,
+        "sales": 3088036,
+        "targets_met": 98,
+        "phone": "+91 943291085"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.19407170109969,
+          13.036960379373749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1185,
+        "name": "Sales Point 1185",
+        "region": "North Chennai",
+        "status": "inactive",
+        "performance_score": 91,
+        "sales": 3865352,
+        "targets_met": 51,
+        "phone": "+91 988995033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2065505530842,
+          13.127498159518181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1186,
+        "name": "Sales Point 1186",
+        "region": "North Chennai",
+        "status": "inactive",
+        "performance_score": 21,
+        "sales": 3434694,
+        "targets_met": 82,
+        "phone": "+91 953800763"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.23946724879175,
+          13.102462234530076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1187,
+        "name": "Sales Point 1187",
+        "region": "Central",
+        "status": "active",
+        "performance_score": 69,
+        "sales": 3112971,
+        "targets_met": 62,
+        "phone": "+91 989473622"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.22604636255022,
+          13.023977813635991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1188,
+        "name": "Sales Point 1188",
+        "region": "North Chennai",
+        "status": "pending",
+        "performance_score": 34,
+        "sales": 1108748,
+        "targets_met": 76,
+        "phone": "+91 955382591"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.28306442712352,
+          13.147368782707973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1189,
+        "name": "Sales Point 1189",
+        "region": "West Chennai",
+        "status": "inactive",
+        "performance_score": 67,
+        "sales": 2767266,
+        "targets_met": 49,
+        "phone": "+91 943393294"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1844250489889,
+          12.980207331358187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1190,
+        "name": "Sales Point 1190",
+        "region": "West Chennai",
+        "status": "active",
+        "performance_score": 59,
+        "sales": 1437722,
+        "targets_met": 69,
+        "phone": "+91 951953033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.18874168509035,
+          13.045188988872166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1191,
+        "name": "Sales Point 1191",
+        "region": "South Chennai",
+        "status": "inactive",
+        "performance_score": 77,
+        "sales": 2666286,
+        "targets_met": 49,
+        "phone": "+91 926585486"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1574594619953,
+          12.928483454228243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1192,
+        "name": "Sales Point 1192",
+        "region": "North Chennai",
+        "status": "inactive",
+        "performance_score": 61,
+        "sales": 3158878,
+        "targets_met": 57,
+        "phone": "+91 918297687"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1663225248524,
+          13.118221484543167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1193,
+        "name": "Sales Point 1193",
+        "region": "West Chennai",
+        "status": "active",
+        "performance_score": 64,
+        "sales": 4534056,
+        "targets_met": 75,
+        "phone": "+91 947483866"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.19135872604517,
+          12.996783205584158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1194,
+        "name": "Sales Point 1194",
+        "region": "Central",
+        "status": "active",
+        "performance_score": 70,
+        "sales": 1546224,
+        "targets_met": 76,
+        "phone": "+91 913417376"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.21624197583782,
+          13.004286132832831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1195,
+        "name": "Sales Point 1195",
+        "region": "Central",
+        "status": "active",
+        "performance_score": 85,
+        "sales": 3648743,
+        "targets_met": 93,
+        "phone": "+91 943372652"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2167344780535,
+          13.024312912645783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1196,
+        "name": "Sales Point 1196",
+        "region": "East Chennai",
+        "status": "active",
+        "performance_score": 24,
+        "sales": 1100509,
+        "targets_met": 63,
+        "phone": "+91 974186108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.26011296786297,
+          13.032894784838954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1197,
+        "name": "Sales Point 1197",
+        "region": "North Chennai",
+        "status": "pending",
+        "performance_score": 53,
+        "sales": 827615,
+        "targets_met": 63,
+        "phone": "+91 959672444"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.17867573136252,
+          13.147397400481077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1198,
+        "name": "Sales Point 1198",
+        "region": "East Chennai",
+        "status": "inactive",
+        "performance_score": 32,
+        "sales": 4973002,
+        "targets_met": 65,
+        "phone": "+91 986506808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.26338240969422,
+          13.00741133177349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1199,
+        "name": "Sales Point 1199",
+        "region": "South Chennai",
+        "status": "pending",
+        "performance_score": 34,
+        "sales": 3815911,
+        "targets_met": 40,
+        "phone": "+91 942978629"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.15274902752304,
+          12.942753695793229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1200,
+        "name": "Sales Point 1200",
+        "region": "Central",
+        "status": "pending",
+        "performance_score": 95,
+        "sales": 4039362,
+        "targets_met": 89,
+        "phone": "+91 954785167"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.24098535071322,
+          12.987126266993442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1201,
+        "name": "Sales Point 1201",
+        "region": "South Chennai",
+        "status": "active",
+        "performance_score": 53,
+        "sales": 4984502,
+        "targets_met": 32,
+        "phone": "+91 913593602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2877484906946,
+          12.935170478733838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1202,
+        "name": "Sales Point 1202",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 89,
+        "sales": 2707721,
+        "targets_met": 61,
+        "phone": "+91 979057906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.29664221216798,
+          13.123220610716487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1203,
+        "name": "Sales Point 1203",
+        "region": "North Chennai",
+        "status": "pending",
+        "performance_score": 31,
+        "sales": 3135679,
+        "targets_met": 58,
+        "phone": "+91 945650695"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.27736820319637,
+          13.061324194287785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1204,
+        "name": "Sales Point 1204",
+        "region": "West Chennai",
+        "status": "pending",
+        "performance_score": 74,
+        "sales": 3561923,
+        "targets_met": 33,
+        "phone": "+91 940069443"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.17490638776343,
+          12.958654205867226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1205,
+        "name": "Sales Point 1205",
+        "region": "West Chennai",
+        "status": "active",
+        "performance_score": 74,
+        "sales": 3573927,
+        "targets_met": 96,
+        "phone": "+91 953877358"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.17290555307756,
+          12.972998267283007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1206,
+        "name": "Sales Point 1206",
+        "region": "South Chennai",
+        "status": "inactive",
+        "performance_score": 86,
+        "sales": 3957121,
+        "targets_met": 63,
+        "phone": "+91 952554971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2154851809608,
+          12.86920856047562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1207,
+        "name": "Sales Point 1207",
+        "region": "North Chennai",
+        "status": "inactive",
+        "performance_score": 89,
+        "sales": 3389046,
+        "targets_met": 53,
+        "phone": "+91 926182379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.21075601142766,
+          13.068130452644562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1208,
+        "name": "Sales Point 1208",
+        "region": "South Chennai",
+        "status": "inactive",
+        "performance_score": 22,
+        "sales": 3934287,
+        "targets_met": 44,
+        "phone": "+91 949922292"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.28049153909618,
+          12.851653145586221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1209,
+        "name": "Sales Point 1209",
+        "region": "South Chennai",
+        "status": "pending",
+        "performance_score": 84,
+        "sales": 1470077,
+        "targets_met": 83,
+        "phone": "+91 950643311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.22998946079923,
+          12.913318472621164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1210,
+        "name": "Sales Point 1210",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 91,
+        "sales": 1718789,
+        "targets_met": 59,
+        "phone": "+91 961670205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.17226924514556,
+          13.120781513889238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1211,
+        "name": "Sales Point 1211",
+        "region": "North Chennai",
+        "status": "inactive",
+        "performance_score": 57,
+        "sales": 4007984,
+        "targets_met": 32,
+        "phone": "+91 970088796"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.27884997296326,
+          13.110928104202689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1212,
+        "name": "Sales Point 1212",
+        "region": "North Chennai",
+        "status": "pending",
+        "performance_score": 40,
+        "sales": 729328,
+        "targets_met": 76,
+        "phone": "+91 926344768"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.22738920360975,
+          13.0521491924083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1213,
+        "name": "Sales Point 1213",
+        "region": "North Chennai",
+        "status": "pending",
+        "performance_score": 23,
+        "sales": 2618537,
+        "targets_met": 60,
+        "phone": "+91 971263632"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.28788966833505,
+          13.144255728779049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1214,
+        "name": "Sales Point 1214",
+        "region": "Central",
+        "status": "inactive",
+        "performance_score": 65,
+        "sales": 714359,
+        "targets_met": 52,
+        "phone": "+91 951220422"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.20209662642701,
+          13.012239732942822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1215,
+        "name": "Sales Point 1215",
+        "region": "Central",
+        "status": "pending",
+        "performance_score": 59,
+        "sales": 4251772,
+        "targets_met": 43,
+        "phone": "+91 946609760"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.24932267857801,
+          13.000132301350876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1216,
+        "name": "Sales Point 1216",
+        "region": "West Chennai",
+        "status": "inactive",
+        "performance_score": 94,
+        "sales": 1360848,
+        "targets_met": 78,
+        "phone": "+91 993341877"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.19412775662114,
+          13.000863446706461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1217,
+        "name": "Sales Point 1217",
+        "region": "North Chennai",
+        "status": "inactive",
+        "performance_score": 62,
+        "sales": 4745136,
+        "targets_met": 98,
+        "phone": "+91 925974712"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1735031179627,
+          13.107780852379564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1218,
+        "name": "Sales Point 1218",
+        "region": "South Chennai",
+        "status": "pending",
+        "performance_score": 44,
+        "sales": 3199197,
+        "targets_met": 70,
+        "phone": "+91 969216194"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.16590080777077,
+          12.884491437510608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1219,
+        "name": "Sales Point 1219",
+        "region": "North Chennai",
+        "status": "pending",
+        "performance_score": 66,
+        "sales": 2278984,
+        "targets_met": 46,
+        "phone": "+91 930454362"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2774894433419,
+          13.093867783952971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1220,
+        "name": "Sales Point 1220",
+        "region": "South Chennai",
+        "status": "inactive",
+        "performance_score": 27,
+        "sales": 4339655,
+        "targets_met": 90,
+        "phone": "+91 949547850"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.21758675763527,
+          12.887717233228964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1221,
+        "name": "Sales Point 1221",
+        "region": "North Chennai",
+        "status": "pending",
+        "performance_score": 88,
+        "sales": 3441508,
+        "targets_met": 84,
+        "phone": "+91 952992378"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.23422012164937,
+          13.070215859791768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1222,
+        "name": "Sales Point 1222",
+        "region": "Central",
+        "status": "active",
+        "performance_score": 85,
+        "sales": 4964970,
+        "targets_met": 46,
+        "phone": "+91 994681403"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.21391391292146,
+          12.963213711061641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1223,
+        "name": "Sales Point 1223",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 33,
+        "sales": 4757994,
+        "targets_met": 35,
+        "phone": "+91 979209014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.17123428978488,
+          13.079014959451408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1224,
+        "name": "Sales Point 1224",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 24,
+        "sales": 3756789,
+        "targets_met": 81,
+        "phone": "+91 978722021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.28893459747174,
+          13.055882434264065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1225,
+        "name": "Sales Point 1225",
+        "region": "South Chennai",
+        "status": "pending",
+        "performance_score": 21,
+        "sales": 3156422,
+        "targets_met": 74,
+        "phone": "+91 935246250"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.17111418924728,
+          12.874566111950816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1226,
+        "name": "Sales Point 1226",
+        "region": "East Chennai",
+        "status": "inactive",
+        "performance_score": 56,
+        "sales": 846573,
+        "targets_met": 53,
+        "phone": "+91 941213807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.27523362571553,
+          13.040682402803709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1227,
+        "name": "Sales Point 1227",
+        "region": "South Chennai",
+        "status": "pending",
+        "performance_score": 49,
+        "sales": 4969973,
+        "targets_met": 85,
+        "phone": "+91 956437558"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.29411506409875,
+          12.907243968106402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1228,
+        "name": "Sales Point 1228",
+        "region": "Central",
+        "status": "pending",
+        "performance_score": 58,
+        "sales": 816909,
+        "targets_met": 40,
+        "phone": "+91 954469273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.21677226065141,
+          13.00597178322446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1229,
+        "name": "Sales Point 1229",
+        "region": "South Chennai",
+        "status": "active",
+        "performance_score": 28,
+        "sales": 1516798,
+        "targets_met": 62,
+        "phone": "+91 959714545"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.15290720143581,
+          12.89310591607397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1230,
+        "name": "Sales Point 1230",
+        "region": "North Chennai",
+        "status": "pending",
+        "performance_score": 39,
+        "sales": 4690127,
+        "targets_met": 56,
+        "phone": "+91 920527847"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.24732590634656,
+          13.110239989063526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1231,
+        "name": "Sales Point 1231",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 89,
+        "sales": 1138442,
+        "targets_met": 67,
+        "phone": "+91 936234126"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.29995019159045,
+          13.066949327575951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1232,
+        "name": "Sales Point 1232",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 71,
+        "sales": 3707045,
+        "targets_met": 35,
+        "phone": "+91 977182581"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.157368672862,
+          13.066008754579435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1233,
+        "name": "Sales Point 1233",
+        "region": "North Chennai",
+        "status": "pending",
+        "performance_score": 67,
+        "sales": 3762644,
+        "targets_met": 57,
+        "phone": "+91 992273152"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.21698992621198,
+          13.14796830882599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1234,
+        "name": "Sales Point 1234",
+        "region": "South Chennai",
+        "status": "inactive",
+        "performance_score": 29,
+        "sales": 2244342,
+        "targets_met": 69,
+        "phone": "+91 914436360"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.18293893128676,
+          12.892873410444679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1235,
+        "name": "Sales Point 1235",
+        "region": "South Chennai",
+        "status": "active",
+        "performance_score": 31,
+        "sales": 4190712,
+        "targets_met": 73,
+        "phone": "+91 937260959"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.29800757428534,
+          12.941327350076417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1236,
+        "name": "Sales Point 1236",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 53,
+        "sales": 4389459,
+        "targets_met": 62,
+        "phone": "+91 941561161"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.26888986825884,
+          13.067926420200022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1237,
+        "name": "Sales Point 1237",
+        "region": "North Chennai",
+        "status": "pending",
+        "performance_score": 26,
+        "sales": 3990597,
+        "targets_met": 93,
+        "phone": "+91 972858301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.22089295366689,
+          13.122927881715649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1238,
+        "name": "Sales Point 1238",
+        "region": "South Chennai",
+        "status": "inactive",
+        "performance_score": 33,
+        "sales": 2797347,
+        "targets_met": 80,
+        "phone": "+91 999531308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.27382725645418,
+          12.899958585182386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1239,
+        "name": "Sales Point 1239",
+        "region": "West Chennai",
+        "status": "pending",
+        "performance_score": 27,
+        "sales": 1161734,
+        "targets_met": 47,
+        "phone": "+91 934786975"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.18364181798624,
+          12.99791928880504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1240,
+        "name": "Sales Point 1240",
+        "region": "North Chennai",
+        "status": "inactive",
+        "performance_score": 37,
+        "sales": 2472443,
+        "targets_met": 87,
+        "phone": "+91 981382602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.29138444493258,
+          13.131545515488849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1241,
+        "name": "Sales Point 1241",
+        "region": "North Chennai",
+        "status": "pending",
+        "performance_score": 44,
+        "sales": 3779374,
+        "targets_met": 78,
+        "phone": "+91 928151322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.19566068780058,
+          13.075158068746436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1242,
+        "name": "Sales Point 1242",
+        "region": "South Chennai",
+        "status": "pending",
+        "performance_score": 56,
+        "sales": 709998,
+        "targets_met": 75,
+        "phone": "+91 950028755"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.18107635908159,
+          12.865078603949211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1243,
+        "name": "Sales Point 1243",
+        "region": "South Chennai",
+        "status": "pending",
+        "performance_score": 27,
+        "sales": 4503442,
+        "targets_met": 74,
+        "phone": "+91 957492494"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.24004892314724,
+          12.897815713262004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1244,
+        "name": "Sales Point 1244",
+        "region": "South Chennai",
+        "status": "inactive",
+        "performance_score": 37,
+        "sales": 2002748,
+        "targets_met": 98,
+        "phone": "+91 976234724"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2155353779489,
+          12.879567798874525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1245,
+        "name": "Sales Point 1245",
+        "region": "Central",
+        "status": "inactive",
+        "performance_score": 57,
+        "sales": 2045485,
+        "targets_met": 65,
+        "phone": "+91 931392379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2317084208341,
+          13.00183003045601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1246,
+        "name": "Sales Point 1246",
+        "region": "West Chennai",
+        "status": "inactive",
+        "performance_score": 59,
+        "sales": 4581962,
+        "targets_met": 78,
+        "phone": "+91 983740167"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.19680080910909,
+          12.983130068406991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1247,
+        "name": "Sales Point 1247",
+        "region": "North Chennai",
+        "status": "pending",
+        "performance_score": 38,
+        "sales": 1636203,
+        "targets_met": 64,
+        "phone": "+91 953926896"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2608244774574,
+          13.12667067706853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1248,
+        "name": "Sales Point 1248",
+        "region": "South Chennai",
+        "status": "inactive",
+        "performance_score": 28,
+        "sales": 1280582,
+        "targets_met": 66,
+        "phone": "+91 950494812"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.25708788708819,
+          12.876595490235086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1249,
+        "name": "Sales Point 1249",
+        "region": "Central",
+        "status": "inactive",
+        "performance_score": 43,
+        "sales": 2870209,
+        "targets_met": 31,
+        "phone": "+91 953222226"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.24955821094053,
+          13.027879581919148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1250,
+        "name": "Sales Point 1250",
+        "region": "West Chennai",
+        "status": "active",
+        "performance_score": 92,
+        "sales": 2986896,
+        "targets_met": 89,
+        "phone": "+91 989704636"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.19942268864158,
+          13.010277073066488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1251,
+        "name": "Sales Point 1251",
+        "region": "West Chennai",
+        "status": "pending",
+        "performance_score": 54,
+        "sales": 3069231,
+        "targets_met": 96,
+        "phone": "+91 959929255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.16645465823065,
+          12.994668720152767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1252,
+        "name": "Sales Point 1252",
+        "region": "South Chennai",
+        "status": "active",
+        "performance_score": 33,
+        "sales": 553536,
+        "targets_met": 81,
+        "phone": "+91 975506140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.25114969132173,
+          12.8975678743667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1253,
+        "name": "Sales Point 1253",
+        "region": "South Chennai",
+        "status": "pending",
+        "performance_score": 25,
+        "sales": 4991526,
+        "targets_met": 88,
+        "phone": "+91 969937584"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.18017949344278,
+          12.850823644393197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1254,
+        "name": "Sales Point 1254",
+        "region": "North Chennai",
+        "status": "inactive",
+        "performance_score": 94,
+        "sales": 588776,
+        "targets_met": 81,
+        "phone": "+91 996525435"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.20876229559728,
+          13.083357165499054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1255,
+        "name": "Sales Point 1255",
+        "region": "North Chennai",
+        "status": "inactive",
+        "performance_score": 79,
+        "sales": 2549918,
+        "targets_met": 36,
+        "phone": "+91 990420186"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1778868492837,
+          13.12610160302492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1256,
+        "name": "Sales Point 1256",
+        "region": "North Chennai",
+        "status": "inactive",
+        "performance_score": 85,
+        "sales": 2027785,
+        "targets_met": 57,
+        "phone": "+91 910391889"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.15313348384964,
+          13.127654352513732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1257,
+        "name": "Sales Point 1257",
+        "region": "East Chennai",
+        "status": "active",
+        "performance_score": 70,
+        "sales": 1630830,
+        "targets_met": 49,
+        "phone": "+91 959538053"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.28473296157276,
+          13.034849167507577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1258,
+        "name": "Sales Point 1258",
+        "region": "East Chennai",
+        "status": "pending",
+        "performance_score": 49,
+        "sales": 1653025,
+        "targets_met": 54,
+        "phone": "+91 970206217"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.28392488538353,
+          12.972153080246251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1259,
+        "name": "Sales Point 1259",
+        "region": "East Chennai",
+        "status": "pending",
+        "performance_score": 40,
+        "sales": 801589,
+        "targets_met": 73,
+        "phone": "+91 911648270"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.29104304807416,
+          12.982693079620425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1260,
+        "name": "Sales Point 1260",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 35,
+        "sales": 3504110,
+        "targets_met": 40,
+        "phone": "+91 917232624"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.25480380874788,
+          13.080432940285828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1261,
+        "name": "Sales Point 1261",
+        "region": "South Chennai",
+        "status": "pending",
+        "performance_score": 40,
+        "sales": 4490283,
+        "targets_met": 77,
+        "phone": "+91 956456030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.16196543820072,
+          12.93415338460191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1262,
+        "name": "Sales Point 1262",
+        "region": "East Chennai",
+        "status": "inactive",
+        "performance_score": 66,
+        "sales": 2109601,
+        "targets_met": 37,
+        "phone": "+91 983566750"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.26920562225236,
+          12.988870079318886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1263,
+        "name": "Sales Point 1263",
+        "region": "South Chennai",
+        "status": "pending",
+        "performance_score": 29,
+        "sales": 2822826,
+        "targets_met": 83,
+        "phone": "+91 991391120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.21427539389876,
+          12.925500153743167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1264,
+        "name": "Sales Point 1264",
+        "region": "South Chennai",
+        "status": "pending",
+        "performance_score": 71,
+        "sales": 1056993,
+        "targets_met": 37,
+        "phone": "+91 939377181"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2913948873622,
+          12.93996120382135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1265,
+        "name": "Sales Point 1265",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 20,
+        "sales": 3121702,
+        "targets_met": 78,
+        "phone": "+91 930024499"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.21393506047184,
+          13.146405827194881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1266,
+        "name": "Sales Point 1266",
+        "region": "South Chennai",
+        "status": "pending",
+        "performance_score": 29,
+        "sales": 2240289,
+        "targets_met": 97,
+        "phone": "+91 963118628"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.22231163498083,
+          12.893779943885042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1267,
+        "name": "Sales Point 1267",
+        "region": "South Chennai",
+        "status": "pending",
+        "performance_score": 56,
+        "sales": 4999398,
+        "targets_met": 63,
+        "phone": "+91 956858719"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.17430496468782,
+          12.897673739168107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1268,
+        "name": "Sales Point 1268",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 82,
+        "sales": 716927,
+        "targets_met": 55,
+        "phone": "+91 999485296"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.17775967836539,
+          13.061605745433498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1269,
+        "name": "Sales Point 1269",
+        "region": "East Chennai",
+        "status": "active",
+        "performance_score": 83,
+        "sales": 3266834,
+        "targets_met": 54,
+        "phone": "+91 942284458"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.26110274349895,
+          13.000711646334205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1270,
+        "name": "Sales Point 1270",
+        "region": "East Chennai",
+        "status": "active",
+        "performance_score": 54,
+        "sales": 2575148,
+        "targets_met": 82,
+        "phone": "+91 973318019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.27952477881794,
+          13.012438522391488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1271,
+        "name": "Sales Point 1271",
+        "region": "South Chennai",
+        "status": "active",
+        "performance_score": 82,
+        "sales": 3972847,
+        "targets_met": 56,
+        "phone": "+91 935153584"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.26058346930691,
+          12.919798049586205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1272,
+        "name": "Sales Point 1272",
+        "region": "South Chennai",
+        "status": "pending",
+        "performance_score": 67,
+        "sales": 3666944,
+        "targets_met": 32,
+        "phone": "+91 922018198"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.21676129552002,
+          12.892184887266701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1273,
+        "name": "Sales Point 1273",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 69,
+        "sales": 3557429,
+        "targets_met": 72,
+        "phone": "+91 999573562"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.29971802588878,
+          13.103983869647953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1274,
+        "name": "Sales Point 1274",
+        "region": "South Chennai",
+        "status": "inactive",
+        "performance_score": 57,
+        "sales": 2921680,
+        "targets_met": 95,
+        "phone": "+91 963868340"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.16979623840409,
+          12.892489926312512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1275,
+        "name": "Sales Point 1275",
+        "region": "South Chennai",
+        "status": "active",
+        "performance_score": 32,
+        "sales": 2776074,
+        "targets_met": 55,
+        "phone": "+91 911039247"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.24079327860763,
+          12.887070729318772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1276,
+        "name": "Sales Point 1276",
+        "region": "North Chennai",
+        "status": "inactive",
+        "performance_score": 45,
+        "sales": 2232716,
+        "targets_met": 88,
+        "phone": "+91 959356233"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.27293187286648,
+          13.141426054408754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1277,
+        "name": "Sales Point 1277",
+        "region": "South Chennai",
+        "status": "pending",
+        "performance_score": 70,
+        "sales": 2007836,
+        "targets_met": 93,
+        "phone": "+91 918314196"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.16371696590382,
+          12.904938236862414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1278,
+        "name": "Sales Point 1278",
+        "region": "West Chennai",
+        "status": "active",
+        "performance_score": 89,
+        "sales": 1667090,
+        "targets_met": 88,
+        "phone": "+91 951409115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.16157879962125,
+          12.977702705977856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1279,
+        "name": "Sales Point 1279",
+        "region": "East Chennai",
+        "status": "inactive",
+        "performance_score": 49,
+        "sales": 4198224,
+        "targets_met": 49,
+        "phone": "+91 965722290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.28455930377132,
+          13.046717852537062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1280,
+        "name": "Sales Point 1280",
+        "region": "South Chennai",
+        "status": "inactive",
+        "performance_score": 39,
+        "sales": 1839078,
+        "targets_met": 71,
+        "phone": "+91 982938941"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.18496138319664,
+          12.908912091166306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1281,
+        "name": "Sales Point 1281",
+        "region": "Central",
+        "status": "inactive",
+        "performance_score": 86,
+        "sales": 4102574,
+        "targets_met": 35,
+        "phone": "+91 913463505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.22509177423075,
+          12.970647975526843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1282,
+        "name": "Sales Point 1282",
+        "region": "South Chennai",
+        "status": "pending",
+        "performance_score": 90,
+        "sales": 1880489,
+        "targets_met": 86,
+        "phone": "+91 958438003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.23779172101015,
+          12.872601301088816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1283,
+        "name": "Sales Point 1283",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 29,
+        "sales": 4836340,
+        "targets_met": 41,
+        "phone": "+91 964008847"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.16527631909639,
+          13.071951967984152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1284,
+        "name": "Sales Point 1284",
+        "region": "North Chennai",
+        "status": "inactive",
+        "performance_score": 83,
+        "sales": 1759898,
+        "targets_met": 95,
+        "phone": "+91 956957077"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.23277121816308,
+          13.098685478919947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1285,
+        "name": "Sales Point 1285",
+        "region": "North Chennai",
+        "status": "inactive",
+        "performance_score": 78,
+        "sales": 1741652,
+        "targets_met": 58,
+        "phone": "+91 990486327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.27283607312846,
+          13.118103074578121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1286,
+        "name": "Sales Point 1286",
+        "region": "East Chennai",
+        "status": "inactive",
+        "performance_score": 77,
+        "sales": 3005867,
+        "targets_met": 99,
+        "phone": "+91 970714728"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.25491764858852,
+          13.045818564929688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1287,
+        "name": "Sales Point 1287",
+        "region": "East Chennai",
+        "status": "inactive",
+        "performance_score": 44,
+        "sales": 2945850,
+        "targets_met": 71,
+        "phone": "+91 975069020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.25956721146571,
+          12.968576901448023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1288,
+        "name": "Sales Point 1288",
+        "region": "North Chennai",
+        "status": "pending",
+        "performance_score": 44,
+        "sales": 4158025,
+        "targets_met": 53,
+        "phone": "+91 932266921"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.22998030611525,
+          13.121645732350322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1289,
+        "name": "Sales Point 1289",
+        "region": "North Chennai",
+        "status": "pending",
+        "performance_score": 22,
+        "sales": 4731435,
+        "targets_met": 71,
+        "phone": "+91 943253620"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2615720580884,
+          13.051935344296771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1290,
+        "name": "Sales Point 1290",
+        "region": "Central",
+        "status": "active",
+        "performance_score": 34,
+        "sales": 2310145,
+        "targets_met": 81,
+        "phone": "+91 972970945"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.21670941710478,
+          12.953899946825677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1291,
+        "name": "Sales Point 1291",
+        "region": "West Chennai",
+        "status": "inactive",
+        "performance_score": 74,
+        "sales": 3628163,
+        "targets_met": 63,
+        "phone": "+91 923174749"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.17862640601435,
+          13.04357113818743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1292,
+        "name": "Sales Point 1292",
+        "region": "Central",
+        "status": "active",
+        "performance_score": 89,
+        "sales": 3604476,
+        "targets_met": 85,
+        "phone": "+91 982386733"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2430038104794,
+          13.03740097870137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1293,
+        "name": "Sales Point 1293",
+        "region": "North Chennai",
+        "status": "active",
+        "performance_score": 74,
+        "sales": 579738,
+        "targets_met": 94,
+        "phone": "+91 986496502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.24745733154373,
+          13.06761995002667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1294,
+        "name": "Sales Point 1294",
+        "region": "North Chennai",
+        "status": "inactive",
+        "performance_score": 28,
+        "sales": 4936549,
+        "targets_met": 34,
+        "phone": "+91 947491359"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.19620149804913,
+          13.063787749912974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1295,
+        "name": "Sales Point 1295",
+        "region": "North Chennai",
+        "status": "inactive",
+        "performance_score": 52,
+        "sales": 4142883,
+        "targets_met": 94,
+        "phone": "+91 941913762"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.16694286017758,
+          13.082636237994514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1296,
+        "name": "Sales Point 1296",
+        "region": "East Chennai",
+        "status": "inactive",
+        "performance_score": 82,
+        "sales": 1690272,
+        "targets_met": 41,
+        "phone": "+91 925948192"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.25252005444415,
+          12.989198897995868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1297,
+        "name": "Sales Point 1297",
+        "region": "Central",
+        "status": "pending",
+        "performance_score": 23,
+        "sales": 3663666,
+        "targets_met": 64,
+        "phone": "+91 988468155"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.20358253431915,
+          13.044680779088813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1298,
+        "name": "Sales Point 1298",
+        "region": "North Chennai",
+        "status": "inactive",
+        "performance_score": 84,
+        "sales": 4144203,
+        "targets_met": 87,
+        "phone": "+91 930671797"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.28360926699501,
+          13.073027420558605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1299,
+        "name": "Sales Point 1299",
+        "region": "East Chennai",
+        "status": "active",
+        "performance_score": 74,
+        "sales": 891919,
+        "targets_met": 58,
+        "phone": "+91 937231267"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.25015332743307,
+          13.020544555940988
+        ]
+      }
+    }
+  ]
+}
